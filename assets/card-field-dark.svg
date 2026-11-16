@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="330" viewBox="0 0 600 330" role="img" aria-label="field-tools: Dependency-free shell tools for engineers standing in front of a PLC or industrial gateway with one laptop and no signal. Each one leaves a timestamped report for the work order.">
+<title>field-tools: Dependency-free shell tools for engineers standing in front of a PLC or industrial gateway with one laptop and no signal. Each one leaves a timestamped report for the work order.</title>
+<style>
+  .d{stroke-dasharray:1;stroke-dashoffset:0;animation:draw 1.6s cubic-bezier(0.16,1,0.3,1) backwards}
+  @keyframes draw{from{stroke-dashoffset:1}}
+  .fade{animation:fade .9s cubic-bezier(0.16,1,0.3,1) backwards}
+  @keyframes fade{from{opacity:0;transform:translateY(10px)}}
+  .blink{animation:blink 1.1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  @media (prefers-reduced-motion: reduce){ *{animation:none !important} }
+</style>
+<defs><clipPath id="cf"><rect width="600" height="330" rx="12"/></clipPath></defs>
+  <g clip-path="url(#cf)">
+    <rect width="600" height="330" fill="#131A22"/>
+    <rect width="5" height="330" fill="#F2925F"/>
+    
+    <circle cx="34" cy="38" r="4" fill="#F2925F"/>
+    <text x="46" y="42.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="2.4" fill="#F2925F">FIELD ENGINEERING</text>
+    <rect x="510" y="24" width="62" height="26" rx="13" fill="none" stroke="#25313C"/>
+    <circle cx="523" cy="37" r="3.5" fill="#2DD4BF" class=""/>
+    <text x="532" y="41.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#B0BCC6">Built</text>
+    <text x="30" y="98" font-family="Fraunces, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="34" font-weight="600" fill="#E6EDF0">field-tools</text>
+    <text x="30" y="134" font-family="Sora, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#B0BCC6">Dependency-free shell tools for engineers standing in front of</text><text x="30" y="158" font-family="Sora, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#B0BCC6">a PLC or industrial gateway with one laptop and no signal. Each</text><text x="30" y="182" font-family="Sora, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#B0BCC6">one leaves a timestamped report for the work order.</text>
+    <g class="fade" style="animation-delay:.4s">
+    <text x="30" y="222" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#C9A45C">$</text>
+    <text x="46" y="222" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#2DD4BF">./gw-check.sh --report</text>
+    <rect class="blink" x="234.8" y="209" width="8" height="16" fill="#2DD4BF"/>
+  </g>
+    <rect x="30" y="274" width="51.6" height="24" rx="12" fill="#18212B" stroke="#25313C"/>
+      <text x="41" y="290.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#B0BCC6">Bash</text><rect x="89.6" y="274" width="59" height="24" rx="12" fill="#18212B" stroke="#25313C"/>
+      <text x="100.6" y="290.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#B0BCC6">Linux</text><rect x="156.6" y="274" width="51.6" height="24" rx="12" fill="#18212B" stroke="#25313C"/>
+      <text x="167.6" y="290.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#B0BCC6">PLCs</text><rect x="216.2" y="274" width="118.2" height="24" rx="12" fill="#18212B" stroke="#25313C"/>
+      <text x="227.2" y="290.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#B0BCC6">Edge gateways</text>
+  </g>
+  <rect x=".5" y=".5" width="599" height="329" rx="12" fill="none" stroke="#25313C"/>
+</svg>

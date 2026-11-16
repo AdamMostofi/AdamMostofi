@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="330" viewBox="0 0 600 330" role="img" aria-label="site-audit: Scans a website for accessibility issues and checks its email health (SPF, DKIM, DMARC), then writes a branded PDF report a business owner can actually read.">
+<title>site-audit: Scans a website for accessibility issues and checks its email health (SPF, DKIM, DMARC), then writes a branded PDF report a business owner can actually read.</title>
+<style>
+  .d{stroke-dasharray:1;stroke-dashoffset:0;animation:draw 1.6s cubic-bezier(0.16,1,0.3,1) backwards}
+  @keyframes draw{from{stroke-dashoffset:1}}
+  .fade{animation:fade .9s cubic-bezier(0.16,1,0.3,1) backwards}
+  @keyframes fade{from{opacity:0;transform:translateY(10px)}}
+  .blink{animation:blink 1.1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  @media (prefers-reduced-motion: reduce){ *{animation:none !important} }
+</style>
+<defs><clipPath id="cf"><rect width="600" height="330" rx="12"/></clipPath></defs>
+  <g clip-path="url(#cf)">
+    <rect width="600" height="330" fill="#FFFFFF"/>
+    <rect width="5" height="330" fill="#0B5FA5"/>
+    
+    <circle cx="34" cy="38" r="4" fill="#0B5FA5"/>
+    <text x="46" y="42.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="2.4" fill="#0B5FA5">CLIENT TOOL</text>
+    <rect x="430.8" y="24" width="141.2" height="26" rx="13" fill="none" stroke="#D8D3C8"/>
+    <circle cx="443.8" cy="37" r="3.5" fill="#0A7268" class=""/>
+    <text x="452.8" y="41.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Private · in use</text>
+    <text x="30" y="98" font-family="Fraunces, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="34" font-weight="600" fill="#10161D">site-audit</text>
+    <text x="30" y="134" font-family="Sora, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#3E4952">Scans a website for accessibility issues and checks its email</text><text x="30" y="158" font-family="Sora, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#3E4952">health (SPF, DKIM, DMARC), then writes a branded PDF report a</text><text x="30" y="182" font-family="Sora, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#3E4952">business owner can actually read.</text>
+    <g class="fade" style="animation-delay:.4s">
+    <text x="30" y="222" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#7E5A1C">$</text>
+    <text x="46" y="222" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#0A7268">audit https://client.com --pdf</text>
+    <rect class="blink" x="302" y="209" width="8" height="16" fill="#0A7268"/>
+  </g>
+    <rect x="30" y="274" width="73.80000000000001" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="41" y="290.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Node.js</text><rect x="111.80000000000001" y="274" width="81.2" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="122.80000000000001" y="290.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">axe-core</text><rect x="201" y="274" width="96" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="212" y="290.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Playwright</text><rect x="305" y="274" width="103.4" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="316" y="290.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">PDF reports</text>
+  </g>
+  <rect x=".5" y=".5" width="599" height="329" rx="12" fill="none" stroke="#D8D3C8"/>
+</svg>

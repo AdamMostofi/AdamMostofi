@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="232" viewBox="0 0 1200 232" role="img" aria-label="Toolbox: Python, LangGraph, RAG, Qdrant, Sentence-Transformers, Hugging Face, scikit-learn, Groq / Llama, ONNX; TypeScript, Next.js, React 19, Astro, Tailwind, Payload CMS, GSAP, Lenis, shadcn/ui; FastAPI, Flask, Postgres, SQLite, Docker, Cloudflare, Vercel, GitHub Actions; Linux, Bash, Cisco networking, PLCs / gateways, pytest, hypothesis, Vitest, Playwright">
+<title>Toolbox: Python, LangGraph, RAG, Qdrant, Sentence-Transformers, Hugging Face, scikit-learn, Groq / Llama, ONNX; TypeScript, Next.js, React 19, Astro, Tailwind, Payload CMS, GSAP, Lenis, shadcn/ui; FastAPI, Flask, Postgres, SQLite, Docker, Cloudflare, Vercel, GitHub Actions; Linux, Bash, Cisco networking, PLCs / gateways, pytest, hypothesis, Vitest, Playwright</title>
+<style>
+  .d{stroke-dasharray:1;stroke-dashoffset:0;animation:draw 1.6s cubic-bezier(0.16,1,0.3,1) backwards}
+  @keyframes draw{from{stroke-dashoffset:1}}
+  .fade{animation:fade .9s cubic-bezier(0.16,1,0.3,1) backwards}
+  @keyframes fade{from{opacity:0;transform:translateY(10px)}}
+  .blink{animation:blink 1.1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  @media (prefers-reduced-motion: reduce){ *{animation:none !important} }
+</style>
+<rect x=".5" y=".5" width="1199" height="231" rx="12" fill="#FFFFFF" stroke="#D8D3C8"/><g class="fade" style="animation-delay:0.00s">
+        <rect x="26" y="28" width="28" height="3" fill="#5B43C9"/>
+        <text x="26" y="58" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="2.4" fill="#5B43C9">AI &amp; ML</text>
+        <rect x="26" y="76" width="66.4" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="37" y="92.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Python</text><rect x="100.4" y="76" width="88.60000000000001" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="111.4" y="92.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">LangGraph</text><rect x="197" y="76" width="44.2" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="208" y="92.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">RAG</text><rect x="26" y="110" width="66.4" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="37" y="126.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Qdrant</text><rect x="100.4" y="110" width="177.4" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="111.4" y="126.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Sentence-Transformers</text><rect x="26" y="144" width="110.80000000000001" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="37" y="160.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Hugging Face</text><rect x="144.8" y="144" width="110.80000000000001" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="155.8" y="160.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">scikit-learn</text><rect x="26" y="178" width="110.80000000000001" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="37" y="194.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Groq / Llama</text><rect x="144.8" y="178" width="51.6" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="155.8" y="194.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">ONNX</text>
+      </g><g class="fade" style="animation-delay:0.15s">
+        <rect x="316" y="28" width="28" height="3" fill="#0B5FA5"/>
+        <text x="316" y="58" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="2.4" fill="#0B5FA5">WEB</text>
+        <rect x="316" y="76" width="96" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="327" y="92.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">TypeScript</text><rect x="420" y="76" width="73.80000000000001" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="431" y="92.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Next.js</text><rect x="501.8" y="76" width="81.2" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="512.8" y="92.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">React 19</text><rect x="316" y="110" width="59" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="327" y="126.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Astro</text><rect x="383" y="110" width="81.2" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="394" y="126.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Tailwind</text><rect x="472.2" y="110" width="103.4" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="483.2" y="126.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Payload CMS</text><rect x="316" y="144" width="51.6" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="327" y="160.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">GSAP</text><rect x="375.6" y="144" width="59" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="386.6" y="160.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Lenis</text><rect x="442.6" y="144" width="88.60000000000001" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="453.6" y="160.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">shadcn/ui</text>
+      </g><g class="fade" style="animation-delay:0.30s">
+        <rect x="606" y="28" width="28" height="3" fill="#1C7A47"/>
+        <text x="606" y="58" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="2.4" fill="#1C7A47">BACKEND &amp; INFRA</text>
+        <rect x="606" y="76" width="73.80000000000001" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="617" y="92.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">FastAPI</text><rect x="687.8" y="76" width="59" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="698.8" y="92.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Flask</text><rect x="754.8" y="76" width="81.2" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="765.8" y="92.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Postgres</text><rect x="606" y="110" width="66.4" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="617" y="126.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">SQLite</text><rect x="680.4" y="110" width="66.4" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="691.4" y="126.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Docker</text><rect x="754.8" y="110" width="96" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="765.8" y="126.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Cloudflare</text><rect x="606" y="144" width="66.4" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="617" y="160.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Vercel</text><rect x="680.4" y="144" width="125.60000000000001" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="691.4" y="160.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">GitHub Actions</text>
+      </g><g class="fade" style="animation-delay:0.45s">
+        <rect x="896" y="28" width="28" height="3" fill="#A84716"/>
+        <text x="896" y="58" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="2.4" fill="#A84716">SYSTEMS &amp; TESTING</text>
+        <rect x="896" y="76" width="59" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="907" y="92.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Linux</text><rect x="963" y="76" width="51.6" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="974" y="92.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Bash</text><rect x="1022.6" y="76" width="140.4" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="1033.6" y="92.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Cisco networking</text><rect x="896" y="110" width="133" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="907" y="126.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">PLCs / gateways</text><rect x="1037" y="110" width="66.4" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="1048" y="126.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">pytest</text><rect x="896" y="144" width="96" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="907" y="160.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">hypothesis</text><rect x="1000" y="144" width="66.4" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="1011" y="160.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Vitest</text><rect x="1074.4" y="144" width="96" height="24" rx="12" fill="#ECE8DF" stroke="#D8D3C8"/>
+      <text x="1085.4" y="160.5" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3E4952">Playwright</text>
+      </g>
+</svg>
